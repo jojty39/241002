@@ -49,6 +49,17 @@ header .video_bg video {
   z-index: -1;
 }
 
+header .video_bg .diag {}
+header .video_bg .diag1 {}
+header .video_bg .diag2 {}
+header .video_bg .diag3 {}
+header .video_bg .diag4 {}
+header .video_bg .diag5 {}
+header .video_bg .diag6 {}
+header .video_bg .diag7 {}
+
+
+
 
 header .headerTop {
 
